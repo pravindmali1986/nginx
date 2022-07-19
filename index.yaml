@@ -50,6 +50,6 @@ data:
     <html>
     <h1>Welcome</h1>
     </br>
-    <h1>Hi! This is a configmap Index</h1>
+    <h1>Hi! This is a configmap Index harness</h1>
     </html>
 
